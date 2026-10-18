@@ -9,3 +9,6 @@ def remove_task():
 
 def set_priority():
   pass
+
+def set_due_date():
+  print('Set due date on main')
