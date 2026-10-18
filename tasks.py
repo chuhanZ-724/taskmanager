@@ -3,3 +3,6 @@ def add_task():
 
 def list_tasks():
    pass
+
+def remove_task():
+  pass
