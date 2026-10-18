@@ -6,3 +6,6 @@ def list_tasks():
 
 def remove_task():
   pass
+
+def set_priority():
+  pass
