@@ -2,10 +2,10 @@ def add_task():
    pass
 
 def list_tasks():
-   pass
+  pass
 
 def remove_task():
-  pass
+ pass
 
 def set_priority():
   pass
