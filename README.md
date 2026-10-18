@@ -5,3 +5,5 @@
 
 ## Documentation
 This is a cloned repo.
+
+Fixed a typo.
